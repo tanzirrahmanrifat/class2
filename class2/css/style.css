@@ -1,0 +1,35 @@
+
+header{
+    background-color: rgba(255,0,0,0.5);
+    /* color: white; */
+}
+article{
+     background-color: teal;
+     /* color: white; */
+}
+h1{
+    color: green;
+}
+
+p{
+    color: mediumorchid;
+    font-size: 40px;
+
+}
+span{
+  color: chartreuse;
+}
+#only-one{
+    border: 3px dotted black;
+    background-color: red;
+}
+
+.link{
+    border: 2px solid green;
+
+}
+table,tr,th,td{
+    border: 2px solid goldenrod;
+    background-color: mediumvioletred;
+    color: white;
+}
